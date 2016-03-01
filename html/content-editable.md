@@ -1,5 +1,6 @@
 # [HTMLElement.contentEditable](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/contentEditable)
 
+## Create a contentEditable element
 ```html
 <div contentEditable></div>
 

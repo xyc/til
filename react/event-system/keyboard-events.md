@@ -22,7 +22,7 @@ number charCode
 boolean ctrlKey
 boolean getModifierState(key)
 string key
-number keyCode
+number keyCode // http://keycodes.atjayjo.com/
 string locale
 number location
 boolean metaKey
