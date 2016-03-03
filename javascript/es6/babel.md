@@ -1,4 +1,29 @@
-# Babel 6
+# Babel
+
+## Upgrade Babel 5 to 6
+Upgrade globally: `npm i -g babel`
+
+Upgrade project: `npm i --save`
+
+`.babelrc`
+```
+{
+  presets: ['es2015', 'react']
+}
+```
+
+`package.json`
+```js
+"babel-core": "^6.0.0",
+"babel-loader": "^6.0.0",
+"babel-preset-es2015": "^6.0.0",
+"babel-preset-react": "^6.0.0",
+```
+
+Read more: https://medium.com/@malyw/how-to-update-babel-5-x-6-x-d828c230ec53#.xmpw0r6d7
+
+
+## Babel 6
 Babel npm package has been split into multiple packages:
 - babel-cli
 - babel-core

@@ -20,6 +20,13 @@ class ComponentWithDefaultProps extends Component{
   }
 
   static defaultProps = {
+    prop: undefined
   }
+}
+
+// or
+ComponentWithDefaultProps.propTypes = React.PropTypes.object
+ComponentWithDefaultProps.defaultProps = {
+  prop: undefined
 }
 ```
