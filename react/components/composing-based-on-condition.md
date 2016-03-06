@@ -28,7 +28,7 @@ render(){
           </div>)
 }
 
-// if-else IIFE
+// if-else IIFE (pro: local to the parent component)
 render(){
   return (<div>
             <ComponentA/>

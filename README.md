@@ -1,4 +1,4 @@
-# Today I learnt
+# Today I learned
 
 ## Why TIL?
 - [Active recall](https://en.wikipedia.org/wiki/Active_recall)
@@ -6,17 +6,19 @@
 
 ## What to learn
 
-front-end: css, flexbox, animations
+**Immutable.js**
 
-design: layout, color scheme
-
-redux
+**redux, async**
 
 GraphQL
 
-Immutable.js
+front-end: css, **flexbox**, **animations/react-motion**
+
+design: layout, color scheme
 
 Programming language: ES6 generators, promises
+
+Keep on learning Haskell
 
 ## How to learn
 - Books

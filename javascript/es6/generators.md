@@ -1,0 +1,7 @@
+# Generators
+
+```js
+function* gen(){
+
+}
+```

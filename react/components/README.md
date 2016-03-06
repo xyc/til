@@ -6,3 +6,6 @@
 ## Community components
 - react-motion-menu http://bokuweb.github.io/react-motion-menu/example/
 - react-sortable-pane https://github.com/bokuweb/react-sortable-pane
+
+## Composition libraries
+- https://github.com/UniversalAvenue/react-compose

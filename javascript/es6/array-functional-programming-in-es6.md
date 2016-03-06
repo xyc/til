@@ -2,6 +2,17 @@
 
 ES6 adds many facilities like arrow functions, spread operator to make functional programming much easier.
 
+## Map array to object whose keys are the array elements
+```js
+mapper = (x) => true /* example mapper: just set the values to true */
+
+const mapArrayToObjectKeys = (mapper) =>
+  arr.reduce((obj, x) => {
+    obj[x] = mapper(x);
+    return obj
+  }, {}) /*starting with empty object*/
+```
+
 ## Concatenate multiple arrays
 ```js
 // concatenate multiple arrays
@@ -13,7 +24,13 @@ const arr3 = [7,8,9]
 
 // or this:
 // http://stackoverflow.com/questions/15327160/haskell-merging-multiple-lists
-[arr1, arr2, arr3].reduce( (arr1, arr2) => arr1.concat(arr2) )
+/**
+ * Concatenate multiple arrays
+ * @param  {array} arrays  must be array of arrays
+ * @return {array}         concatenated array
+ */
+const concatArrays = (arrays) =>
+  arrays.reduce( (as, a) => as.concat(a), [])
 ```
 
 ## Ranges

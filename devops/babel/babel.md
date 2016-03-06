@@ -46,3 +46,40 @@ Enable ES7 features like decorators and async/await: `npm i babel-preset-stage-0
 
 ## Read more
 - [The Complete Guide to ES6 with Babel 6](http://jamesknelson.com/the-complete-guide-to-es6-with-babel-6/)
+
+### Common issues
+```
+You may need an appropriate loader to handle this file type
+```
+
+Possible reasons:
+- `es2015` preset not installed
+  1. Install `es2015` preset
+
+  ```sh
+  npm install babel-preset-es2015
+  ```
+
+  2. configure `babel-loader`
+
+  `.babelrc`
+  ```js
+  {
+  "presets": ["es2015", "react", "stage-0"]
+  }
+  ```
+
+  `webpack.config.js`
+  ```js
+  module: {
+    loaders: [
+      {
+        test: /\.(js|jsx)$/,
+        loaders: ['react-hot', 'babel'],
+        include: [path.join(__dirname, 'src'), path.join(__dirname, 'example')]
+      },      
+    ]
+  }
+  ```
+
+-  include doesn't work with symlinks https://github.com/webpack/webpack/issues/1643

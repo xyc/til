@@ -50,3 +50,31 @@ defaults.key1 // value1
 defaults.key2 // value2
 defaults.key3 // value3
 ```
+
+## Index pattern
+`my-package`:
+```js
+// module.js (NOTE: default)
+export default class MyClass{}
+
+// module2.js
+export { name1, name2 }
+
+// index.js
+export Module from 'module'
+// export { Module } from 'module' // this doesn't work (because module.js doesn't export Module)
+export { name1 } from 'module2'
+```
+Import:
+```js
+import {Module} from 'my-package'
+```
+
+
+Further Readings:
+- http://www.2ality.com/2014/09/es6-modules-final.html
+- http://www.2ality.com/2015/07/es6-module-exports.html
+- http://exploringjs.com/es6/ch_modules.html
+
+Real World Examples:
+- https://github.com/reactjs/react-router/blob/master/modules/index.js
