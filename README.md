@@ -6,19 +6,29 @@
 
 ## What to learn
 
-**Immutable.js**
+- React
+  - **Immutable.js**
+  - **redux, async**
+    - egghead videos
+    - https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.n7zi8nksg
+  - HoC, decorator
+  - GraphQL
+  - recompose
+  - flow
 
-**redux, async**
+- Front-end:
+  - css, **flexbox**
+  - **animations/react-motion**
 
-GraphQL
+- Design
+  - layout
+  - color scheme
+  - typography
 
-front-end: css, **flexbox**, **animations/react-motion**
-
-design: layout, color scheme
-
-Programming language: ES6 generators, promises
-
-Keep on learning Haskell
+- Programming language
+  - ES6 generators
+  - promises
+  - Keep on learning Haskell
 
 ## How to learn
 - Books

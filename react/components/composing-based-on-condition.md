@@ -53,3 +53,8 @@ render(){
           </div>)
 }
 ```
+
+## Extract into subcomponent
+```js
+const Subcomponent = (condition) => condition ? <ComponentA/> : <ComponentB/>
+```
