@@ -49,6 +49,13 @@ import defaults from './module'
 defaults.key1 // value1
 defaults.key2 // value2
 defaults.key3 // value3
+
+//http://stackoverflow.com/questions/34676984/cannot-export-const-arrow-function
+// invalid: export default const MyComponent = () => {}
+const MyComponent = () => {}
+export default MyComponent
+
+export default class MyComponent extends React.Component {}
 ```
 
 ## Index pattern

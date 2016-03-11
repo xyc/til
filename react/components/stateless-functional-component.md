@@ -18,4 +18,4 @@ var Aquarium = ({species}) => (
 // Then use: <Aquarium species="rainbowfish" />
 ```
 
- Functional components do not have lifecycle methods, but you can set `.propTypes` and `.defaultProps` as properties on the function.
+Functional components do not have lifecycle methods, but you can set `.propTypes` and `.defaultProps` as properties on the function.

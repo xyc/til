@@ -11,7 +11,10 @@
   - **redux, async**
     - egghead videos
     - https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.n7zi8nksg
-  - HoC, decorator
+  - how react works
+    - dom-diff
+    - batch updates
+  - HoC
   - GraphQL
   - recompose
   - flow
@@ -28,6 +31,8 @@
 - Programming language
   - ES6 generators
   - promises
+  - Babel
+    - http://shuheikagawa.com/blog/2015/09/13/lets-create-a-babel-plugin/
   - Keep on learning Haskell
 
 ## How to learn
