@@ -5,3 +5,14 @@
 ```
 
 Also see JSX spread
+
+## Rest parameters
+
+```js
+function myFunction(x, y, z) { }
+var args = [0, 1, 2];
+
+// Function.prototype.apply
+myFunction.apply(null, args);
+myFunction(...args);
+```

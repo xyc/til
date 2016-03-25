@@ -15,4 +15,7 @@ element.contentEditable = 'true'; // change contentEditable state
 document.designMode = 'on'; // Making an Entire Page Editable
 ```
 
-## Chrome DevTools' console uses [-webkit-user-modify: read-write-plaintext-only](https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-user-modify)
+## Content editing
+- Draft.js
+- Substance.js https://github.com/substance/substance
+- Chrome DevTools' console uses [-webkit-user-modify: read-write-plaintext-only](https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-user-modify)

@@ -48,3 +48,6 @@ const zeroToNMinusOne = (n) => ([...Array(n).keys()])
 // repeat x for n times
 const repeat = (x, n) => Array(n).fill(x)
 ```
+
+## Read more
+http://davidarvelo.com/blog/array-number-range-sequences-in-javascript-es6/

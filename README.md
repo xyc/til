@@ -6,28 +6,6 @@
 
 ## What to learn
 
-- React
-  - **Immutable.js**
-  - **redux, async**
-    - egghead videos
-    - https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.n7zi8nksg
-  - how react works
-    - dom-diff
-    - batch updates
-  - HoC
-  - GraphQL
-  - recompose
-  - flow
-
-- Front-end:
-  - css, **flexbox**
-  - **animations/react-motion**
-
-- Design
-  - layout
-  - color scheme
-  - typography
-
 - Programming language
   - ES6 generators
   - promises
@@ -35,7 +13,34 @@
     - http://shuheikagawa.com/blog/2015/09/13/lets-create-a-babel-plugin/
   - Keep on learning Haskell
 
+- React
+  - HoC / recompose
+  - **Immutable.js**
+  - **redux, async**
+    - egghead videos
+    - https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.n7zi8nksg
+    - redux-saga, side-effects composition
+  - how react works
+    - dom-diff
+    - batch updates
+  - GraphQL
+  - flow
+
+- Web app
+  - Front-end:
+    - css, **flexbox**
+    - **animations/react-motion**  
+  - Data fetching
+    - relay
+    - https://github.com/facebook/Haxl
+    - https://github.com/facebook/dataloader
+
+- Design
+  - layout
+  - color scheme
+  - typography
+
 ## How to learn
-- Books
-- Youtube
-- Coursera
+- Media: Books/Youtube/Egghead/Coursera/Podcasts
+- Community: Twitter/Medium/Slack/Community Digests
+- Social: Friends/Meetups

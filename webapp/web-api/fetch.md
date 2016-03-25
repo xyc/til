@@ -30,3 +30,4 @@ plugins: [
 
 ## Read more
 - https://jakearchibald.com/2015/thats-so-fetch/
+- Compose HTTP clients using JavaScript's fetch API https://github.com/mjackson/http-client
