@@ -1,0 +1,2 @@
+- Progressive enhancement and graceful degradation http://tympanus.net/codrops/2012/11/20/learning-principles-for-improving-your-css/
+  - http://alistapart.com/article/understandingprogressiveenhancement

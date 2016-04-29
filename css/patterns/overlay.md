@@ -20,7 +20,6 @@ You can use position:absolute to position an overlay inside of your div and then
 Make sure that your parent `<div` has the `position:relative` property added to it and a lower z-index.
 
 ## Method 2
-
 ```js
 box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.5);
 

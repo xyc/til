@@ -1,2 +1,2 @@
 ## Progress bar
-https://css-tricks.com/css3-progress-bars/
+- https://css-tricks.com/css3-progress-bars/

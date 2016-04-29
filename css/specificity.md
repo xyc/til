@@ -1,0 +1,2 @@
+- specificity:  Assigning property values, Cascading, and Inheritance https://www.w3.org/TR/CSS2/cascade.html
+  - no ID http://csswizardry.com/2011/09/when-using-ids-can-be-a-pain-in-the-class/

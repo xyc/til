@@ -61,7 +61,7 @@ Read more:
 - Mixins are dead https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
 - React decorators https://github.com/kriasoft/react-decorators
 
-## Decorotors
+## Decorators
 
 Read more:
 - decorator https://github.com/wycats/javascript-decorators

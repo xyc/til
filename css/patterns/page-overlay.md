@@ -8,3 +8,5 @@
   zIndex: 1,
   background: "rgba(0,0,0,.5)"}}></div>
 ```
+
+- fullscreen page overlay http://tympanus.net/Development/FullscreenOverlayStyles/index7.html

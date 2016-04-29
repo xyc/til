@@ -1,0 +1,2 @@
+- vertical timeline http://tympanus.net/Blueprints/VerticalTimeline/
+- responsive timeline http://tympanus.net/Tutorials/3DTimeline/

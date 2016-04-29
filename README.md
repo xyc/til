@@ -32,6 +32,7 @@
     - **animations/react-motion**  
   - Data fetching
     - relay
+    - Haxl paper http://community.haskell.org/~simonmar/papers/haxl-icfp14.pdf
     - https://github.com/facebook/Haxl
     - https://github.com/facebook/dataloader
 

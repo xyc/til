@@ -1,5 +1,4 @@
 # CSS transition
-
 Specifiy a transition attribute, when the styles/other animatable properties of the element changes, it will start a transition.
 
 
@@ -38,8 +37,11 @@ WebkitTransition: 'all', // note the capital 'W' here
 msTransition: 'all' // 'ms' is the only lowercase vendor prefix
 ```
 
-## Read more
+## Transition on page load
+- http://stackoverflow.com/questions/6805482/css3-transition-animation-on-load
+  - CSS3 Keyframes
 
+## Read more
 - http://www.chloechen.io/react-animation-done-in-two-ways/
 
 ```js

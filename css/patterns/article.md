@@ -1,0 +1,1 @@
+- article intro animation http://tympanus.net/Development/ArticleIntroEffects/index.html

@@ -1,0 +1,2 @@
+- http://tympanus.net/codrops/2014/06/04/inspiration-for-inline-anchor-styles/
+- http://tympanus.net/Development/CreativeLinkEffects/

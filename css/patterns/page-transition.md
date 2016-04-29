@@ -1,0 +1,2 @@
+- http://tympanus.net/Development/PageTransitions/
+- http://tympanus.net/Development/FullscreenLayoutPageTransitions/

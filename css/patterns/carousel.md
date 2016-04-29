@@ -1,0 +1,1 @@
+- flexbox carousel http://madewithenvy.com/ecosystem/articles/2015/exploring-order-flexbox-carousel/

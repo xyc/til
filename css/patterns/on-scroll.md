@@ -1,0 +1,3 @@
+- scroll down element appear with transition http://tympanus.net/codrops/2013/07/18/on-scroll-effect-layout/
+- on scroll header effects (like medium) http://tympanus.net/codrops/2013/07/16/on-scroll-header-effects/
+- fixed background scrolling http://tympanus.net/Blueprints/ScrollingLayout/

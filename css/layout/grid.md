@@ -1,5 +1,6 @@
 - Flexbox vs Grid: https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/
 - Solved By flexbox: https://philipwalton.github.io/solved-by-flexbox/demos/grids/
+- Grid animation effects: http://tympanus.net/codrops/2015/04/15/grid-item-animation-layout/
 
 ```css
 /* https://github.com/1000ch/grd/blob/gh-pages/src/grd.css */

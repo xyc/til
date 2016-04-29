@@ -3,17 +3,19 @@
 - MDN https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
 
 ## Read more
-- **CSS FlexBox Practical Examples (Rebuilding Dribbble.com using FlexBox)** https://www.youtube.com/watch?v=H1lREysgdgc
+- Solved by flexbox https://github.com/philipwalton/solved-by-flexbox
+- Flexbox patterns http://www.flexboxpatterns.com/home
 
-- https://github.com/philipwalton/solved-by-flexbox
+- **CSS FlexBox Practical Examples (Rebuilding Dribbble.com using FlexBox)** https://www.youtube.com/watch?v=H1lREysgdgc
 
 - http://tympanus.net/codrops/css_reference/flexbox/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 - Tutorials and Games
   - http://flexboxin5.com/
+  - https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1
   - http://www.flexboxdefense.com/
-  - http://flexboxfroggy.com/
+  - http://flexboxfroggy.com/  
 
 ## Why flexbox
 
