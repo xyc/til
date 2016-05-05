@@ -33,6 +33,11 @@ const concatArrays = (arrays) =>
   arrays.reduce( (as, a) => as.concat(a), [])
 ```
 
+## Init array with values
+http://www.2ality.com/2013/11/initializing-arrays.html
+
+- Array.prototype.fill https://tc39.github.io/ecma262/#sec-array.prototype.fill
+
 ## Ranges
 ```js
 // const range = (start, end, inc) => Array((end - start) / inc).reduce(

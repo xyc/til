@@ -67,3 +67,4 @@ header {
 - [Controlling CSS Animations and Transitions with JavaScript](https://css-tricks.com/controlling-css-animations-transitions-javascript/)
 - [Restart CSS animation](https://css-tricks.com/restart-css-animation/)
   - `offsetWidth` triggers reflow
+- Bezier http://www.toolitup.com/cubic-bezier.html

@@ -34,3 +34,6 @@ Examples:
     document.head.appendChild( style );
   }());  
 ```
+
+## Read more
+http://jspm.io/

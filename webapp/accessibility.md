@@ -3,3 +3,6 @@
 
 - semantic HTML element
 - `role` attribute http://stackoverflow.com/questions/10403138/what-is-the-purpose-of-the-role-attribute-in-html
+
+## Browser compatibility check
+- http://caniuse.com/

@@ -17,6 +17,10 @@ https://facebook.github.io/react/docs/animation.html
 - https://github.com/bokuweb/react-sortable-pane
 - http://aprilzero.com/sport/ (Gyroscope is react-native)
 
+## Read more
+- Google web fundamentals Animations
+https://developers.google.com/web/fundamentals/design-and-ui/animations/?hl=en
+
 ## Other
 - Drag and drop, transitions http://designmodo.com/generator/
 

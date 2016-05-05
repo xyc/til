@@ -2,3 +2,6 @@
   - Float the list elements
   - Set the list elements to inline
   - Set the list elements to inline-block
+
+## Examples
+- travis CI
