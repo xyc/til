@@ -5,6 +5,14 @@ Examples:
 <link rel="stylesheet" href="css/custom.css">
 ```
 
+## Converting `NodeList` to `Array`
+https://developer.mozilla.org/en-US/docs/Web/API/NodeList#Converting_a_NodeList_to_an_Array
+
+#### Node deletes itself
+```js
+n.parentNode.removeChild(n)
+```
+
 ```js
 
 // Add style to document
@@ -36,4 +44,9 @@ Examples:
 ```
 
 ## Read more
-http://jspm.io/
+- http://jspm.io/
+
+- Styles:
+  - https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information
+  - https://www.w3.org/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript
+  - See my Frontend metamorphosis projects

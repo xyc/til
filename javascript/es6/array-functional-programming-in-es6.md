@@ -47,12 +47,19 @@ http://www.2ality.com/2013/11/initializing-arrays.html
 //   , start)
 
 // [0..n-1]
-const zeroToNMinusOne = (n) => ([...Array(n).keys()])
+// Array(n).keys() returns an ArrayIterator
+// Use [...arrIterator] or Array.from(arrIterator)
+const zeroToNMinusOne = (n) => [...Array(n).keys()]
 
 // [x..x]
 // repeat x for n times
 const repeat = (x, n) => Array(n).fill(x)
+
+const repeat = (x, n) => Array.from(new Array(n), (_, i) => x)
+
+Array.from({length: n})
 ```
 
 ## Read more
-http://davidarvelo.com/blog/array-number-range-sequences-in-javascript-es6/
+- http://davidarvelo.com/blog/array-number-range-sequences-in-javascript-es6/
+- https://www.zhihu.com/question/41493194

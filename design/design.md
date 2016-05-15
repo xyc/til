@@ -1,4 +1,3 @@
-
 - layout and interactions in design http://tympanus.net/codrops/2013/01/24/creative-layouts-and-interactions-in-web-design/
 
 ## Style guide

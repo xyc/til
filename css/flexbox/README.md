@@ -11,18 +11,19 @@
 ## Read more
 - **Solved by flexbox** https://github.com/philipwalton/solved-by-flexbox
 - **Flexbox patterns** http://www.flexboxpatterns.com/home
-- Almost complete guide to flexbox (without flexbox) http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox
+- CSS tricks flexbox guide https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- http://tympanus.net/codrops/css_reference/flexbox/
+- Almost complete guide to flexbox (**without flexbox**) http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox
 
 - **CSS FlexBox Practical Examples (Rebuilding Dribbble.com using FlexBox)** https://www.youtube.com/watch?v=H1lREysgdgc
 
-- http://tympanus.net/codrops/css_reference/flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
 - Tutorials and Games
   - http://flexboxin5.com/
+  - What the flexbox (video tutorial) http://flexbox.io/
   - Webflow https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1
   - http://www.flexboxdefense.com/
   - http://flexboxfroggy.com/  
+  - egghead https://egghead.io/series/flexbox-fundamentals
 
 ## `display: flex`
 - `display: flex`

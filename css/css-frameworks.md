@@ -15,9 +15,12 @@ https://react.rocks/tag/CSSFramework
   - Grommet http://www.grommet.io/
 - BassCSS (Rebass)
 - React
+  - [fb wiki](https://github.com/facebook/react/wiki/Complementary-Tools#ui-components)
   - [Belle (React)](https://github.com/nikgraf/belle)
   - http://smaato.github.io/ui-framework/ (By author of flexbox patterns)
+  - [Amaze UI](http://amazeui.org/)
 
 ## Read more
-- Airbnb CSS frameworks evolution (O2) http://nerds.airbnb.com/css-frameworks-evolution-airbnbs-frontend/
+- [Airbnb CSS frameworks evolution (O2)](http://nerds.airbnb.com/css-frameworks-evolution-airbnbs-frontend/)
+- Uber: superfine
 - See also: patterns

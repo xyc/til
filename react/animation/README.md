@@ -4,6 +4,7 @@
 https://facebook.github.io/react/docs/animation.html
 
 ## react-motion
+- react-motion tutorial https://egghead.io/lessons/react-react-motion-introduction-to-the-spring-component?pl=react-react-animation-using-react-motion
 
 ## Cool links
 - https://github.com/bokuweb/react-motion-menu
