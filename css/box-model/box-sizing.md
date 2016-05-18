@@ -1,3 +1,5 @@
+![Border box](https://css-tricks.com/wp-content/uploads/2010/09/widthbox.png)
+
 ## `box-sizing: content-box`
 The default. When computing the size of a box, padding and border are added.
 
@@ -14,4 +16,5 @@ When computing the size of a box, padding and border are folded in.
 }
 ```
 
+## Read more
 - [* { Box-sizing: Border-box } FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)

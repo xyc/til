@@ -7,7 +7,7 @@
 ## What to learn
 
 - Programming language
-  - ES6 generators
+  - ES6 generators, try Koa
   - promises
   - Babel
     - http://shuheikagawa.com/blog/2015/09/13/lets-create-a-babel-plugin/
@@ -42,6 +42,6 @@
   - typography
 
 ## How to learn
-- Media: Books/Youtube/Egghead/Coursera/Podcasts
+- Media: Books/Youtube/Egghead/Coursera/Podcasts(JavascriptAir, React Podcast)
 - Community: Twitter/Medium/Slack/Community Digests
 - Social: Friends/Meetups

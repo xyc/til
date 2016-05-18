@@ -17,20 +17,20 @@
 
 #### Container
 ```html
-<div>
-  <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+<div class="container">
+  <span class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
 </div>
 ```
 
 ```css
-div {
+.container {
   width: 250px;
   height: 100px;
   line-height: 100px;
   text-align: center;
 }
 
-span {
+.text {
   display: inline-block;
   vertical-align: middle;
   line-height: normal;

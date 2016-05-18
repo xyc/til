@@ -13,6 +13,8 @@
   - Feathersjs http://feathersjs.com/  
 
 - Server framework
+  - http://horizon.io/#1.0-release
+  - Koa
   - Express
   - https://github.com/hapijs/hapi
 

@@ -11,6 +11,7 @@ const styles = {
   }
 }
 
+/* Object spread operator https://github.com/sebmarkbage/ecmascript-rest-spread */
 <div style={{...styles.firstStyle, ...styles.secondStyle}}>
 </div>
 ```

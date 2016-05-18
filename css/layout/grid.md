@@ -1,6 +1,12 @@
-- Flexbox vs Grid: https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/
-- Solved By flexbox: https://philipwalton.github.io/solved-by-flexbox/demos/grids/
-- Grid animation effects: http://tympanus.net/codrops/2015/04/15/grid-item-animation-layout/
+## Design Grid System
+From Solved by flexbox:
+
+- By default, each grid cell is the same width and height as every other cell in the row. Basically they all size to fit by default.
+- For finer control, you can add sizing classes to individual cells. Without these classes, the cells simply divide up the available space as usual.
+- For responsive grids, you can add media query-specific classes to the cells.
+- Individual cells can be aligned vertically to the top, bottom, or middle.
+- When you want all of the cells in a grid to have the same sizing, media, or alignment values, you should be able to just add a single class to the container to avoid unnecessary repetition.
+- Grids can be nested as many levels deep as needed.
 
 ```css
 /* https://github.com/1000ch/grd/blob/gh-pages/src/grd.css */
@@ -43,3 +49,13 @@
 .Cell.\-11of12   { width: calc(100% * 11 / 12); }
 .Cell.\-12of12   { width: 100%; }
 ```
+
+## Related
+- [Flexbox vs Grid](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
+- [Solved By flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/grids/)
+- [Grid animation effects](http://tympanus.net/codrops/2015/04/15/grid-item-animation-layout/)
+- [Pinterest like grid](http://ademilter.github.io/bricklayer/): Pinterest always places next block on column with lowest height
+
+## Other solutions
+#### `inline-block`
+#### `float`

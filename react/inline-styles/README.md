@@ -1,0 +1,2 @@
+- CSS in JS talk
+- Comparisions https://github.com/MicheleBertoli/css-in-js

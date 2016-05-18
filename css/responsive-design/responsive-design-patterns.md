@@ -63,6 +63,7 @@ This requires more work, but could also be a good approach if the information, i
 Hiding navigation elements off-canvas, typically behind a hamburger or menu icon (as shown above, in the example of the Facebook app).
 
 #### [Column drop](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/column-drop?hl=en)
+column drop simply stacks the columns vertically as the window width becomes too narrow for the content.
 
 #### [Tiny tweaks](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/tiny-tweaks?hl=en)
 
