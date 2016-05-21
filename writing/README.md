@@ -1,6 +1,6 @@
 ## Presentation
 - Reveal.js
-- https://github.com/FormidableLabs/spectacle
+- Spectacle https://github.com/FormidableLabs/spectacle
   - https://github.com/thejameskyle/spectacle-code-slide
 
 ## Documentation

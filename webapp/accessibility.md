@@ -1,3 +1,13 @@
+Font sizes should be declared using relative measurement values, such as ems, via a style sheet
+
+```js
+tabindex
+role
+```
+
+## Read more
+- [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- https://www.youtube.com/watch?v=z5e7kWSHWTg&feature=youtu.be&t=10m37s
 - Font awesome accessibility http://fortawesome.github.io/Font-Awesome/accessibility/
 
 - React accessibility https://developers.facebook.com/videos/f8-2016/design-for-everyone-using-react-to-make-your-apps-globally-accessible/

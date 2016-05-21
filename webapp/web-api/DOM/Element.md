@@ -1,24 +1,62 @@
+```js
+document.getElementById
+document.getElementByTagName
 document.querySelector
 document.querySelectorAll
 
 Element.getBoundingClientRect()
-  - https://github.com/nathancahill/Split.js
-window.scrollX
-window.scrollY
-
+  // - https://github.com/nathancahill/Split.js
+  // - popper.js
 Element.getClientRects()
 
-ParentNode.children
-ParentNode.firstElementChild
-ParentNode.lastElementChild
+window.scrollX
+window.scrollY
+```
 
-## Setting attribute
 ```js
+element.innerHTML
+element.outerHTML
+element.textContent
+
+element.children
+```
+
+## getAttribute/setAttribute
+```js
+element.getAttribute("class")
 n.setAttribute('class', 'fancy-box')
 ```
 
 ## Setting styles
 ```js
+htmlElement.style
+
 n.style.font = `14px "Helvetica"`
 n.style.cssText = `font: 14px "Helvetica"`
+```
+
+Add class
+```js
+const addClass = (node, c) => {
+  // sanity check
+  invariant(node.nodeType === Node.ELEMENT_NODE)
+  invariant(typeof c === 'string')
+
+  const className = node.className
+  if(!className){
+    node.className = c
+  }
+  node.className = `${className} ${c}`
+}
+
+const addClass = (node, newClass) => {
+  // sanity check
+  invariant(node.nodeType === Node.ELEMENT_NODE)
+  invariant(typeof newClass === 'string')
+
+  node.classList.add(newClass)
+  // add
+  // contains
+  // remove
+}
 ```

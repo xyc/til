@@ -1,0 +1,2 @@
+- Web fundamentals https://developers.google.com/web/fundamentals/performance/?hl=en
+- Frontend optimize https://sokra.github.io/slides/frontend-optimize

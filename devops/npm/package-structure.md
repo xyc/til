@@ -6,3 +6,6 @@ Specify a package entry point:
   "main": "lib/index.js"
 }
 ```
+
+## Multiple package management
+- [Lerna](https://github.com/lerna/lerna)
