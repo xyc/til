@@ -1,0 +1,4 @@
+- Font awesome
+- Entypo
+- feather
+- [Icon fonts generator](http://fontello.com/)

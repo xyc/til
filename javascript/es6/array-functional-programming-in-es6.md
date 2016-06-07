@@ -48,6 +48,9 @@ http://www.2ality.com/2013/11/initializing-arrays.html
 
 // [0..n-1]
 // Array(n).keys() returns an ArrayIterator
+// array.keys(): index
+// array.values(): value
+// array.entries(): [index, value]
 // Use [...arrIterator] or Array.from(arrIterator)
 const zeroToNMinusOne = (n) => [...Array(n).keys()]
 

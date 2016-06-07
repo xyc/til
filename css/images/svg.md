@@ -26,3 +26,9 @@ It's possible to preview SVGs in Atom.
 </svg>
 
 - GitHub doesn't render inline SVG http://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown/21521184#21521184
+
+## SVG Editors
+- https://boxy-svg.com/
+
+## Read more
+- React and SVG http://jxnblk.com/react-icons/

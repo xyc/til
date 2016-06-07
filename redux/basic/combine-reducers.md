@@ -1,3 +1,5 @@
+## combineReducers
+
 Implement combineReducers from scratch:
 ```js
 const combineReducers = (reducers) => {
@@ -36,3 +38,7 @@ const todoApp = combineReducers({
   visibilityFilter
 })
 ```
+
+## Read more
+- Reducer Composition with Effects in JavaScript (Algebraic Effects in JavaScript) https://github.com/reactjs/redux/issues/1528
+  - Algebraic Effects proposal https://esdiscuss.org/topic/one-shot-delimited-continuations-with-effect-handlers

@@ -1,0 +1,2 @@
+- http://enjoycss.com/gallery/text_effects
+  - 3d box shadow http://stackoverflow.com/questions/27298934/3d-box-shadow-effect

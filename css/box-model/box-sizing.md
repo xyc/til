@@ -18,3 +18,4 @@ When computing the size of a box, padding and border are folded in.
 
 ## Read more
 - [* { Box-sizing: Border-box } FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+- Input larger than containing div: use `box-sizing: border-box` http://stackoverflow.com/questions/1633522/html-input-element-wider-than-containing-div

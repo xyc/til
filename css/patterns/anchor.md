@@ -2,7 +2,8 @@
 - http://tympanus.net/Development/CreativeLinkEffects/
 
 # Animated underline
-http://tobiasahlin.com/blog/css-trick-animating-link-underlines/
+- http://tobiasahlin.com/blog/css-trick-animating-link-underlines/
+- different types (middle out, left, right): http://bradsknutson.com/blog/css-sliding-underline/
 
 ```css
 div > a .item {
