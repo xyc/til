@@ -3,6 +3,7 @@
 ## Why TIL?
 - [Active recall](https://en.wikipedia.org/wiki/Active_recall)
 - Sharing with like-minded people with a growth mindset
+- Temporarily host contents that are not enough for a blog post
 
 ## What to learn
 

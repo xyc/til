@@ -11,13 +11,15 @@
 - airbnb.design
 - Jonas Gebhardt (combine)
 
+## UX
+- Andy Chung https://twitter.com/_andychung (FB reactions)
+
 ## Animation
 - Hakim El Hattab http://hakim.se/
 - Nash Vail https://medium.com/@nashvail
 
 ## Accessibility
 - Jared w Smith https://mobile.twitter.com/jared_w_smith
-
 
 
 ## TODO

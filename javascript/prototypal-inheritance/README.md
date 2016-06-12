@@ -4,4 +4,5 @@ http://www.2ality.com/2012/01/js-inheritance-by-example.html
 http://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical
 
 ## Read more
-- Object.create https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create
+- [Object.create](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
+- [How Prototypal Inheritance really works](http://blog.vjeux.com/2011/javascript/how-prototypal-inheritance-really-works.html)

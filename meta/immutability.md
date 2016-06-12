@@ -1,1 +1,2 @@
 - The Tao of HashiCorp https://www.hashicorp.com/blog/tao-of-hashicorp.html
+- Immutable applications https://vimeo.com/166790294

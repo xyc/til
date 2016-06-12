@@ -15,3 +15,5 @@
   - explore
     - control
     - step up
+
+- Simplicity Matters

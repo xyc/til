@@ -1,0 +1,1 @@
+- [Animating the viewbox](https://css-tricks.com/interactive-data-visualization-animating-viewbox/)
