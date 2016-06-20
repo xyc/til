@@ -1,6 +1,15 @@
 ## React
+- jordwalke https://twitter.com/jordwalke #React
+- Sebastian Markbåge  https://twitter.com/sebmarkbage
+- Ben Alpert https://twitter.com/soprano
 - Dan Abramov https://github.com/gaearon
+- James Long https://twitter.com/jlongster
+- Amjad Masad http://amasad.me/
 - Joel Burget http://joelburget.com/ #React #FP #KhanAcademy
+
+- Lee Byron https://twitter.com/leeb GraphQL
+
+- React Core contributor group https://www.facebook.com/groups/2003630259862046/
 
 ## Design
 - Bret Victor
@@ -10,6 +19,11 @@
 - Paul Stamatiou https://twitter.com/Stammy
 - airbnb.design
 - Jonas Gebhardt (combine)
+- Douglas Bowman
+- Leonard Souza http://leonardsouza.com/ (Egghead.io, Designer + Coder)
+
+## Developer Tools
+- Paul Irish
 
 ## UX
 - Andy Chung https://twitter.com/_andychung (FB reactions)

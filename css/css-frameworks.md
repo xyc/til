@@ -20,12 +20,15 @@ https://react.rocks/tag/CSSFramework
   - material-ui http://www.material-ui.com/#/
   - react-toolbox http://react-toolbox.com/  
 - [React](https://github.com/facebook/react/wiki/Complementary-Tools#ui-components)
+  - CloudFlare https://github.com/cloudflare/cf-ui
   - Rebass (from BassCSS)
   - [Belle (React)](https://github.com/nikgraf/belle)
   - http://smaato.github.io/ui-framework/ (By author of flexbox patterns)
   - [Amaze UI](http://amazeui.org/)
 - Angular
   - Blur Admin https://github.com/akveo/blur-admin
+- Desktop
+  - https://github.com/gabrielbull/react-desktop
 
 ## Read more
 - [Airbnb CSS frameworks evolution (O2)](http://nerds.airbnb.com/css-frameworks-evolution-airbnbs-frontend/)
@@ -41,5 +44,6 @@ https://react.rocks/tag/CSSFramework
 ## Guidelines
 - http://www.csspurge.com/
 - https://hacks.mozilla.org/2016/05/css-coding-techniques/
+- Improving CSS quality at Facebook and beyond https://code.facebook.com/posts/879890885467584
 
 ## Create your own CSS framework

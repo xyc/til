@@ -1,5 +1,13 @@
 - [ExponentJS](https://exponentjs.com/)
 
+## Components
+- [React Web](http://taobaofed.github.io/react-web/): A framework for building web apps with React.
+- [React Native Desktop](https://github.com/ptmt/react-native-desktop): Build OS X desktop apps using React Native and Cocoa.
+
+## Playgrounds
+- https://facebook.github.io/react-native/
+- https://rnplay.org/
+
 ## Read more
 - F8 App http://makeitopen.com/
 - News http://www.reactnative.com/

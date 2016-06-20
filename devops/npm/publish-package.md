@@ -32,6 +32,7 @@ npm version 1.2.3
 npm publish ./
 ```
 
-Read more
+## Read more
+- Semantic release https://github.com/semantic-release/semantic-release
 - https://gist.github.com/coolaj86/1318304
 - http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm

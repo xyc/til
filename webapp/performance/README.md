@@ -1,2 +1,4 @@
 - Web fundamentals https://developers.google.com/web/fundamentals/performance/?hl=en
 - Frontend optimize https://sokra.github.io/slides/frontend-optimize
+- FB Big Pipe https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/
+  - react-server https://github.com/redfin/react-server

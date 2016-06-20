@@ -4,3 +4,5 @@
 - Remote debugging protocol https://developer.chrome.com/devtools/docs/protocol/1.1/index
 
 ## [Debugger Extension API](https://developer.chrome.com/extensions/debugger)
+
+- pony debugger https://github.com/square/PonyDebugger

@@ -9,3 +9,4 @@ Specify a package entry point:
 
 ## Multiple package management
 - [Lerna](https://github.com/lerna/lerna)
+- Babel [Monorepo](https://github.com/babel/babel/blob/master/doc/design/monorepo.md) approach

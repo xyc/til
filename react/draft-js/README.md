@@ -18,3 +18,6 @@ Basic inline styles
 'UNDERLINE'
 'CODE'
 ```
+
+## Read more
+- Awesome Draft JS https://github.com/nikgraf/awesome-draft-js

@@ -1,0 +1,3 @@
+-  Custom Object Formatter https://docs.google.com/document/d/1FTascZXT9cxfetuPRT2eXPQKXui4nWFivUnS_335T3U/preview#heading=h.skpw3zg83aau
+  - https://github.com/andrewdavey/immutable-devtools
+  - disjukr/vector-devtools: vector formatter for chrome devtools

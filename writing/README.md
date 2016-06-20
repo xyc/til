@@ -1,3 +1,9 @@
+## Gif and screencast
+
+## Screenshots
+- cloudup
+- https://github.com/jomo/imgur-screenshot
+
 ## Presentation
 - Reveal.js
 - Spectacle https://github.com/FormidableLabs/spectacle

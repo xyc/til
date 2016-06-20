@@ -1,0 +1,4 @@
+- https://github.com/mobxjs/mobx
+- https://www.youtube.com/watch?v=WjJdaDXN5Vs uses RxJS
+- https://github.com/cyclejs/cycle-time-travel
+- http://jaredforsyth.com/2015/03/06/visualizing-reactive-streams-hot-and-cold/

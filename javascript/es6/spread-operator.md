@@ -16,3 +16,6 @@ var args = [0, 1, 2];
 myFunction.apply(null, args);
 myFunction(...args);
 ```
+
+## Read more
+- http://rainsoft.io/how-three-dots-changed-javascript/

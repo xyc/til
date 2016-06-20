@@ -19,6 +19,12 @@ container component -> reducers -> actions
 - Dan's tweet summary https://twitter.com/dan_abramov/status/704403290252025858
   - https://www.youtube.com/watch?v=zmN0Vhx2Jgg
 
+- Real world
+  - https://github.com/nteract/nteract
+- tutorials
+  - FaveSound https://news.ycombinator.com/item?id=11890229
+  - Fullstack redux http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Redux flow explained visually. Looks so pretty. <br>cc <a href="https://twitter.com/dan_abramov">@dan_abramov</a> <br>© <a href="https://twitter.com/vyacheslav_de">@vyacheslav_de</a> <a href="https://t.co/guWhDG4oCc">pic.twitter.com/guWhDG4oCc</a></p>&mdash; Kitze (@thekitze) <a href="https://twitter.com/thekitze/status/727821044308967425">May 4, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

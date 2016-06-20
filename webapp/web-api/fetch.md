@@ -15,13 +15,14 @@ fetch(`/posts/?offset=${offset}&limit=${limit}`)
 ```
 
 ## polyfill
+Use with webpack:
 
-First install `imports-loader` and `exports-loader`
+1. First install `imports-loader` and `exports-loader`
 ```sh
 npm i imports-loader exports-loader -S
 ```
 
-and configure `webpack.config.js`:
+2. and configure `webpack.config.js`:
 ```js
 plugins: [
   new webpack.ProvidePlugin({
