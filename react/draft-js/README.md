@@ -21,3 +21,4 @@ Basic inline styles
 
 ## Read more
 - Awesome Draft JS https://github.com/nikgraf/awesome-draft-js
+- https://github.com/draft-js-plugins/draft-js-plugins

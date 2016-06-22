@@ -148,7 +148,6 @@ class Playground extends React.Component {
 ## [Data](http://makeitopen.com/tutorials/building-the-f8-app/data/)
 - flux
 - redux
-
 - Redux Persist
 - Middleware (extra logic between action being dispatched and it reaches the reducer)
 

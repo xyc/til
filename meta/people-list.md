@@ -24,6 +24,9 @@
 
 ## Developer Tools
 - Paul Irish
+- Yunfei Zi https://twitter.com/ziyunfei
+- https://twitter.com/hashseed
+- https://twitter.com/ChromeDevTools
 
 ## UX
 - Andy Chung https://twitter.com/_andychung (FB reactions)

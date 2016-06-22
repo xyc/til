@@ -44,3 +44,4 @@ export default function myReducer(state = initialState, action) {
 
 ## Read more
 - using a hashmap (pattern matching) reducer https://gist.github.com/deanius/f380994d117dffb5b625a7871a4fa893
+- Pureness: don't dispatch in a reducer https://github.com/reactjs/redux/issues/368

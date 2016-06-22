@@ -1,0 +1,2 @@
+- https://github.com/reactjs/redux/issues/1189
+- http://stackoverflow.com/questions/33749759/read-stores-initial-state-in-redux-reducer/33791942#33791942

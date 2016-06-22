@@ -1,0 +1,1 @@
+- server side HMR https://github.com/ericclemmons/webpack-hot-server-example

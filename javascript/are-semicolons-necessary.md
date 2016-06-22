@@ -15,3 +15,6 @@ console.log('works')
   console.log(n)
 })
 ```
+
+## [semicolons](http://standardjs.com/rules.html#semicolons)
+- Never start a line with (, [, or `. This is the only gotcha with omitting semicolons, and standard protects you from this potential issue.

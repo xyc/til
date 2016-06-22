@@ -1,4 +1,5 @@
 - [ExponentJS](https://exponentjs.com/)
+- IDE: [Deco](https://www.decosoftware.com/)
 
 ## Components
 - [React Web](http://taobaofed.github.io/react-web/): A framework for building web apps with React.
