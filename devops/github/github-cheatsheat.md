@@ -1,6 +1,5 @@
 https://github.com/tiimgreen/github-cheat-sheet
 
-
 ## Examples
 - [<img width="450" src="http://img.youtube.com/vi/6g3-TQ6aaw8/maxresdefault.jpg" >](http://www.youtube.com/watch?v=6g3-TQ6aaw8)
 
@@ -8,3 +7,5 @@ https://github.com/tiimgreen/github-cheat-sheet
 ![](https://nodei.co/npm/react-object-inspector.png?downloads=true&downloadRank=true&stars=true)
 ![](https://nodei.co/npm/react-inspector.png?downloads=true&downloadRank=true&stars=true)
 ![](https://badge-size.herokuapp.com/xyc/react-inspector/master/dist/react-inspector.min.js?compression=gzip)
+
+- stats: http://www.npmtrends.com/react-inspector-vs-react-object-inspector-vs-rebug

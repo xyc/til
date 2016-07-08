@@ -33,6 +33,7 @@ with ((window && window.console && window.console._commandLineAPI) || {}) {
 </script>
 ```
 
+- bundled (no interaction): `chrome-devtools://devtools/bundled/inspector.html`
 - node-inspector https://github.com/node-inspector/node-inspector
 - https://github.com/Jam3/devtool
 - debugger.html https://github.com/jlongster/debugger.html

@@ -20,12 +20,26 @@ https://facebook.github.io/react/docs/animation.html
 ## Read more
 - Google web fundamentals Animations
 https://developers.google.com/web/fundamentals/design-and-ui/animations/?hl=en
+- CSS Animations vs JS Animations https://developers.google.com/web/fundamentals/design-and-ui/animations/css-vs-javascript?hl=en
+
+  ```js  
+  document.body.animate([
+    {transform: 'translate(0)'},
+    {transform: 'translate(100px, 100px)'}
+  ], 500);
+  ```
+
 - Web Developer Reading List: CSS Transforms and Animation https://thenewcode.com/806/Web-Developer-Reading-List-CSS-Transforms-and-Animation
 - Animation, Direct Manipulation & Feedback https://hackdesign.org/lessons/38
+
+## Tools
+- Path to CSS animation https://twitter.com/sebmarkbage/status/745800532946620416
+- Loading SVG/CSS/gif animation http://loading.io/
 
 ## Frameworks
 - react-motion
 - http://daneden.github.io/animate.css/
+- https://github.com/juliangarnier/anime
 - velocity
 
 ## Other

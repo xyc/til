@@ -1,5 +1,4 @@
 ## Read more
-
 - [COLORS - A nicer color palette for the web.](http://clrs.cc/#utilities)
 
 ## Rule 2: Black and White First

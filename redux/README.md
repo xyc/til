@@ -20,11 +20,16 @@ container component -> reducers -> actions
   - https://www.youtube.com/watch?v=zmN0Vhx2Jgg
 
 - Real world
+  - f8 app (react, redux, parse)
   - https://github.com/nteract/nteract
-- tutorials
+  - tutorials
   - FaveSound https://news.ycombinator.com/item?id=11890229
   - Fullstack redux http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
   - slack clone https://github.com/raineroviir/react-redux-socketio-chat
+  - repo.cat https://github.com/keyanzhang/repo.cat/tree/master/src
+- tutorial examples
+  - simple crud https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.n7zi8nksg
+  - firebase https://github.com/thanhtungdp/react-redux-firebase-blog
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Redux flow explained visually. Looks so pretty. <br>cc <a href="https://twitter.com/dan_abramov">@dan_abramov</a> <br>© <a href="https://twitter.com/vyacheslav_de">@vyacheslav_de</a> <a href="https://t.co/guWhDG4oCc">pic.twitter.com/guWhDG4oCc</a></p>&mdash; Kitze (@thekitze) <a href="https://twitter.com/thekitze/status/727821044308967425">May 4, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

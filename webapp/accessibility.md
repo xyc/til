@@ -19,7 +19,6 @@ role
 ## Keyboard Navigation
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/An_overview_of_accessible_web_applications_and_widgets#Keyboard_navigation
 
-
 ## Voiceover
 cmd + f5
 

@@ -2,3 +2,4 @@
 - Frontend optimize https://sokra.github.io/slides/frontend-optimize
 - FB Big Pipe https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/
   - react-server https://github.com/redfin/react-server
+- High performance browser networking https://github.com/igrigorik/hpbn.co

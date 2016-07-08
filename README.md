@@ -8,8 +8,9 @@
 ## What to learn
 
 - Programming language
-  - ES6 generators, try Koa
-  - promises
+  - continuation, call/cc
+  - ES6
+  - try Koa
   - Babel
     - http://shuheikagawa.com/blog/2015/09/13/lets-create-a-babel-plugin/
   - Keep on learning Haskell
@@ -17,9 +18,10 @@
 - React
   - HoC / recompose
   - **Immutable.js**
-  - **redux, async**
-    - egghead videos
-    - https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.n7zi8nksg
+  - **redux**
+    - egghead videos  
+    - asyc
+    - middleware
     - redux-saga, side-effects composition
   - how react works
     - dom-diff

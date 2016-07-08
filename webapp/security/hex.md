@@ -4,7 +4,11 @@ Website: https://hexed.it/
 
 Shell
 ```sh
+# dump hex or reverse
 xxd
+
+# or hexdump
+hexdump
 ```
 
 Javascript

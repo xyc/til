@@ -45,6 +45,7 @@ Display inline but retain block-level characteristics, doesn't have issues like 
 - inline http://maxdesign.com.au/articles/inline/
   - margin-top, margin-bottom doesn't work
   - padding-top, padding-bottom doesn't increase size
+- How well do you know CSS display? https://www.chenhuijing.com/blog/how-well-do-you-know-display/
 
 - Same effect
 ```html

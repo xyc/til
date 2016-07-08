@@ -3,7 +3,13 @@
 ## Structure
 - name
 - version
-- main
+- `"main"`: Specify a package entry point:
+```js
+{
+  "main": "lib/index.js"
+}
+```
+
 - scripts
   - clean
   - build

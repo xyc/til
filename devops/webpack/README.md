@@ -9,6 +9,7 @@
 
 ## tools
 - bundle size analyze
+  - Show your modules tree https://github.com/webpack/webpack/issues/690
   - https://github.com/robertknight/webpack-bundle-size-analyzer
   - https://github.com/alexkuz/cake-chart
 

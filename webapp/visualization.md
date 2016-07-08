@@ -9,6 +9,10 @@
   - https://www.shadertoy.com/
 
 ## Charts
-- https://github.com/uber/react-vis
+- react-vis https://github.com/uber/react-vis
+- react-chartjs https://github.com/jhudson8/react-chartjs
 - http://echarts.baidu.com/
 - https://github.com/philackm/Scrollable-GraphView
+
+## General
+- https://github.com/parkjs814/AlgorithmVisualizer

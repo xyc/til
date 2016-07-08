@@ -1,5 +1,4 @@
 # Hosting solutions
-
 - Sharing images
   - github
   - own website
