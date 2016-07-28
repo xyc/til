@@ -15,6 +15,9 @@ container component -> reducers -> actions
 - http://redux.js.org/docs/FAQ.html
 - [Product Pains](https://productpains.com/search?query=redux)
 
+## Read More
+- dva: redux application framework https://github.com/sorrycc/dva
+
 ## Real world redux apps
 - Dan's tweet summary https://twitter.com/dan_abramov/status/704403290252025858
   - https://www.youtube.com/watch?v=zmN0Vhx2Jgg

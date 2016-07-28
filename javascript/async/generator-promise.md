@@ -1,5 +1,4 @@
 # https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch4.md#generators--promises
-
 yield-a-promise-resume-the-generator pattern
 
 ```js

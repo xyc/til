@@ -49,3 +49,6 @@ A CSS pseudo-class is a keyword added to selectors that specifies a special stat
 :only-child
 :only-of-type
 ```
+
+## Read more
+- Less used pseudo classes https://bitsofco.de/5-lesser-used-css-selectors/

@@ -1,2 +1,2 @@
-- https://github.com/tc39/ecma262
+- [ECMA262](https://github.com/tc39/ecma262)
 - https://github.com/tc39/proposals

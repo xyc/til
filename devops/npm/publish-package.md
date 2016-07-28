@@ -34,5 +34,6 @@ npm publish ./
 
 ## Read more
 - Semantic release https://github.com/semantic-release/semantic-release
+- np - A better `npm publish` https://github.com/sindresorhus/np
 - https://gist.github.com/coolaj86/1318304
 - http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm

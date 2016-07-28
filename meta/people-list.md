@@ -7,9 +7,12 @@
 - Amjad Masad http://amasad.me/
 - Joel Burget http://joelburget.com/ #React #FP #KhanAcademy
 
-- Lee Byron https://twitter.com/leeb GraphQL
+- Lee Byron https://twitter.com/leeb #GraphQL
 
 - React Core contributor group https://www.facebook.com/groups/2003630259862046/
+
+## React community
+- Zack Argyle https://twitter.com/ZackArgyle Pinterest
 
 ## Design
 - Bret Victor

@@ -7,6 +7,8 @@ role
 
 ## Read more
 - [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- teachaccess https://teachaccess.github.io/tutorial/ (from https://www.reddit.com/r/reactjs/comments/4tcakh/making_react_apps_accessible/)
+- https://medium.com/@addyosmani/accessible-ui-components-for-the-web-39e727101a67#.kj5op88hv
 - https://www.youtube.com/watch?v=z5e7kWSHWTg&feature=youtu.be&t=10m37s
 - Font awesome accessibility http://fortawesome.github.io/Font-Awesome/accessibility/
 
@@ -25,6 +27,7 @@ cmd + f5
 ## Tools
 - tota11y http://khan.github.io/tota11y/
 - react-a11y https://www.youtube.com/watch?v=z5e7kWSHWTg&feature=youtu.be&t=10m37s
+- a11y.css https://github.com/ffoodd/a11y.css
 
 ## Read more
 - http://accessibleculture.org/articles/2013/02/not-so-simple-aria-tree-views-and-screen-readers/#flora
@@ -35,7 +38,6 @@ cmd + f5
 
 - react examples
   - React native accessibility https://developers.facebook.com/videos/f8-2016/design-for-everyone-using-react-to-make-your-apps-globally-accessible/
-
   - components
     - https://github.com/davidtheclark/react-aria-menubutton
 - designer https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.p2j86johq    

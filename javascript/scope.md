@@ -1,4 +1,3 @@
-
 ## Scope issues
 http://stackoverflow.com/questions/1007340/javascript-function-aliasing-doesnt-seem-to-work
 ```js
