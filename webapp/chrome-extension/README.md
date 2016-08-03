@@ -15,6 +15,7 @@
 ## Examples
 - https://developer.chrome.com/extensions/samples
 - https://github.com/sindresorhus/refined-twitter
+- https://github.com/cantino/selectorgadget
 
 ## Architecture:
   - Use Files:

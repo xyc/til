@@ -4,9 +4,6 @@
 ## Dev tools
 - Config https://webpack.github.io/docs/configuration.html
 
-## Loaders
-- List of loaders https://github.com/webpack/docs/wiki/list-of-loaders
-
 ## tools
 - bundle size analyze
   - Show your modules tree https://github.com/webpack/webpack/issues/690
@@ -19,3 +16,4 @@
 - webpack book http://survivejs.com/webpack_react/introduction/
 - Webpack Advanced Techniques https://github.com/markerikson/react-redux-links/blob/master/webpack-advanced-techniques.md
   - Webpack & The Hot Module Replacement https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.4pjopk77m
+- [Webpack: The Confusing parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.j49fieig4)

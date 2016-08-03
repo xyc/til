@@ -35,3 +35,6 @@
 - Fullstack Playground
   - https://hyperdev.com/
   - https://zeit.co/
+
+## Web standard
+- WICG Discourse https://discourse.wicg.io/

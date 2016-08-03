@@ -41,6 +41,7 @@ https://developers.google.com/web/fundamentals/design-and-ui/animations/?hl=en
 - http://daneden.github.io/animate.css/
 - https://github.com/juliangarnier/anime
 - velocity
+- bouncy ball: framework comparison https://github.com/sparkbox/bouncy-ball
 
 ## Other
 - Drag and drop, transitions http://designmodo.com/generator/

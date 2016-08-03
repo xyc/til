@@ -14,7 +14,7 @@ node
   node.previousSibling
   node.nextSibling
 
-  node.childNodes // NodeList
+  node.childNodes // NodeList, child nodes
   node.firstChild
   node.lastChild
 
@@ -27,6 +27,6 @@ node
   node.isSameNode()
 
 parentNode.childElementCount
-parentNode.children
+parentNode.children // live HTMLCollection, child ELEMENT nodes
 parentNode.firstElementChild
 parentNode.lastElementChild

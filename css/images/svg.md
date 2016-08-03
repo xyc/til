@@ -28,7 +28,8 @@ It's possible to preview SVGs in Atom.
 - GitHub doesn't render inline SVG http://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown/21521184#21521184
 
 ## SVG Editors
-- polynom (By React) https://github.com/anthonydugois/polynom
+- polynom (React, Redux) https://github.com/anthonydugois/polynom
+- paths https://github.com/jxnblk/paths
 - https://boxy-svg.com/
 
 ## Tools
