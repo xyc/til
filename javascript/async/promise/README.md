@@ -9,7 +9,7 @@ https://blog.domenic.me/youre-missing-the-point-of-promises/
 You can feed the return value of one function straight into another, and keep doing this indefinitely. More importantly, **if at any point that process fails, one function in the composition chain can throw an exception, which then bypasses all further compositional layers until it comes into the hands of someone who can handle it with a catch**
 
 ## Async
-> Now, in an asynchronous world, you can no longer return values: they simply aren’t ready in time. Similarly, you can’t throw exceptions, because nobody’s there to catch them. So we descend into the so-called “callback hell,” where composition of return values involves nested callbacks, and composition of errors involves passing them up the chain manually
+> Now, in an asynchronous world, you can no longer return values: they simply aren’t ready in time. Similarly, you can’t throw exceptions, because nobody’s there to catch them. So we descend into the so-called "callback hell," where composition of return values involves nested callbacks, and composition of errors involves passing them up the chain manually
 
 The point of promises is to give us back **functional composition** and **error bubbling** in the async world.
 

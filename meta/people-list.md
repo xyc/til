@@ -1,3 +1,8 @@
+## Javascript
+- 2ality
+- kangax
+- Nicholas C. Zakas https://twitter.com/slicknet
+
 ## React
 - jordwalke https://twitter.com/jordwalke #React
 - Sebastian Markbåge  https://twitter.com/sebmarkbage
@@ -17,6 +22,7 @@
 ## Design
 - Bret Victor
 - Brent Jackson http://jxnblk.com/ #React #CSS
+- Jon Gold https://twitter.com/jongold/ #React #FP #Design
 - Anand Sharma http://aprilzero.com/ #ReactNative #Animation #Visualization
   - https://gyrosco.pe/
 - Paul Stamatiou https://twitter.com/Stammy

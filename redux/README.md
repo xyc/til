@@ -2,7 +2,7 @@
 
 reducers and actions are very tightly coupled.
 
-> Some users do choose to bind them more tightly together, such as the “ducks” file structure, but there is definitely no one-to-one mapping by default, and you should break out of such a paradigm any time you feel you want to handle an action in many reducers.
+> Some users do choose to bind them more tightly together, such as the "ducks" file structure, but there is definitely no one-to-one mapping by default, and you should break out of such a paradigm any time you feel you want to handle an action in many reducers.
 
 -> : depend on
 container component -> reducers -> actions

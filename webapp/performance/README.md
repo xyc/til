@@ -7,3 +7,6 @@
 
 ## Tools
 - webtracing framework https://github.com/google/tracing-framework
+- timing.js (Navigation Timing API) https://github.com/addyosmani/timing.js
+  - https://www.w3.org/TR/navigation-timing/
+- critical (extract critical path CSS) https://github.com/addyosmani/critical

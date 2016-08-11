@@ -1,6 +1,6 @@
 # In operator vs Object.hasOwnProperty()
-- In-operator: searches prototype chain (own property and non-ownproperty)
-- hasOwnProperty(): does not search prototype chain ()
+- `in` operator: searches prototype chain (own property and non-ownproperty)
+- `hasOwnProperty()`: does not search prototype chain (own property)
 
 ```js
 console.dir(Object.getPrototypeOf({}))

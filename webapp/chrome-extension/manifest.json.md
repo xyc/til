@@ -1,3 +1,5 @@
+# `manifest.json`
+
 Example:
 
 ```js

@@ -1,9 +1,9 @@
-[Browser events: bubbling, capturing, and delegation](http://info.meteor.com/blog/browser-events-bubbling-capturing-and-delegation)
+# [Browser events: bubbling, capturing, and delegation](http://info.meteor.com/blog/browser-events-bubbling-capturing-and-delegation)
 
 - Event objects have a property `event.target`, which is where the event actually occurred. In the example here, that's always the SPAN.
 - The property `event.currentTarget` says where the event is currently being handled, and it would range between the BODY, P, A, and SPAN.
 
-> Event delegation is not a browser feature, but a popular technique built into libraries like jQuery
+> Event delegation is **not** a browser feature, but a popular technique built into libraries like jQuery
 
  So, taking advantage of bubbling, you bind a single event handler to the BODY, and from this handler you look at event.target to see if an A was clicked, and if so, which one. Be careful, though, because event.target may be the SPAN! You need to not just check if the event's target is an A tag, but also walk up the DOM tree in a simple simulation of bubbling.
 

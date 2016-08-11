@@ -1,0 +1,3 @@
+# `getElementsByClassName`
+
+returns a `NodeList`

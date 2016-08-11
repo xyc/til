@@ -1,3 +1,5 @@
+# Element
+
 ```js
 document.getElementById
 document.getElementByTagName
@@ -21,12 +23,6 @@ element.textContent
 element.children
 ```
 
-## getAttribute/setAttribute
-```js
-element.getAttribute("class")
-n.setAttribute('class', 'fancy-box')
-```
-
 ## Setting styles
 ```js
 htmlElement.style
@@ -35,7 +31,13 @@ n.style.font = `14px "Helvetica"`
 n.style.cssText = `font: 14px "Helvetica"`
 ```
 
-Add class
+## getAttribute/setAttribute
+```js
+element.getAttribute("class")
+n.setAttribute('class', 'fancy-box')
+```
+
+## Add class
 ```js
 const addClass = (node, c) => {
   // sanity check

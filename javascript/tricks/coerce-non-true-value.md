@@ -1,3 +1,5 @@
+# Coerce non-true (falsy) values
+
 ```js
 possibleUndefined === undefined ? false : possibleUndefined
 ```

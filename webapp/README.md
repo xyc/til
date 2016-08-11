@@ -38,3 +38,7 @@
 
 ## Web standard
 - WICG Discourse https://discourse.wicg.io/
+
+## Code Example
+- http://simpl.info/
+- https://codelabs.developers.google.com/?cat=Web

@@ -1,19 +1,47 @@
-## Context
-- Global
-- Function
-- Eval
+# Execution Context
 
-## `execution stack`
-- Single threaded.
-- Synchronous execution.
-- 1 Global context.
-- Infinite function contexts.
-- Each function call creates a new execution context, even a call to itself.
+```
+code evaluation state
+Function
+Realm
+ScriptOrModule
+
+LexicalEnvironment
+VariableEnvironment
+```
+
+```
+ResolveBinding ( name [ , env ] )
+GetThisEnvironment ( )
+ResolveThisBinding ( )
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Global execution context
+- Function execution context
+- Eval execution context
 
 ## 1. Creation Stage [when the function is called, but before it executes any code inside]:
 1. Create the Scope Chain.
 2. Create variables, functions and arguments.
-3. Determine the value of "this".
+3. Determine the value of `this`.
 
 Creates the executionContextObj.
 ```js
@@ -75,33 +103,10 @@ function f(){function a(){}; var a = 1; console.log(a);} f()
 }())
 ```
 
-## Scope
-An important feature of JavaScript to note, is that the interpreter uses **Lexical Scoping**, as opposed to Dynamic Scoping.
-
-Lexical Environments - a mechanism to manage static scoping.
-
-> Scope is an enclosing context in which a variable is associated with a value.
-
-```js
-(function first(){
-    second();
-    function second(){
-        console.dir(second)
-        // <function scope>
-        //    > Closure
-        //      > second
-        //    > Global
-        //      > Window
-    }   
-})
-```
-
-## Closure
-A closure, as Crockford says, is simply:
-> An inner function always has access to the vars and parameters of its outer function, even after the outer function has returned…
-
 ## Read more
+- [ECMA-262-7,8](http://www.ecma-international.org/ecma-262/7.0/index.html#sec-executable-code-and-execution-contexts)
 - http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/#more-137
+- [Understanding delete - Execution Context](http://perfectionkills.com/understanding-delete/#execution_context)
 - Let’s Learn JavaScript Closures https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.78we07ywt
 - Scope chain and closure http://davidshariff.com/blog/javascript-scope-chain-and-closures/
 - http://dmitrysoshnikov.com/ecmascript/chapter-2-variable-object/

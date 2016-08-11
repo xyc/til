@@ -2,10 +2,10 @@
 
 ```js
 {
- “name”: “my-app”,
- “dependencies”: {
-   “lodash”: “^2.0.0”,
-   “my-module”: “file:local_modules/my-module”,
+ "name": "my-app",
+ "dependencies": {
+   "lodash": "^2.0.0",
+   "my-module": "file:local_modules/my-module",
  }
 }
 ```

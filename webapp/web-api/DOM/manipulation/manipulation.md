@@ -1,12 +1,9 @@
-Examples:
+## Examples:
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
 <link rel="stylesheet" href="css/custom.css">
 ```
-
-## Converting `NodeList` to `Array`
-https://developer.mozilla.org/en-US/docs/Web/API/NodeList#Converting_a_NodeList_to_an_Array
 
 #### Node deletes itself
 ```js
@@ -14,7 +11,6 @@ n.parentNode.removeChild(n)
 ```
 
 ```js
-
 // Add style to document
 
 // Delete element
@@ -42,11 +38,3 @@ n.parentNode.removeChild(n)
     document.head.appendChild( style );
   }());  
 ```
-
-## Read more
-- http://jspm.io/
-
-- Styles:
-  - https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information
-  - https://www.w3.org/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript
-  - See my Frontend metamorphosis projects

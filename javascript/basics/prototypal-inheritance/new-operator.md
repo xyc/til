@@ -42,21 +42,6 @@ var p2 = New (Point)(10, 20);
 ```
 
 ## Read more
-- NOTE: calling `new Foo` is equivalent to calling `new Foo()`
 - [How Prototypal Inheritance really works](http://blog.vjeux.com/2011/javascript/how-prototypal-inheritance-really-works.html)
-
-#### Object/Prototype relationships
-![Object/Prototype relationships](http://i.imgur.com/cCzkv.png)
-- CF: Point
-- CF<sub>P</sub>: Point.prototype, look up the prototype chain if Point doesn't have own property `prototype`
-- cf1 - cf5: point1 - point5
-
-Explanation:
-- Explicit prototype property: `Point` has an **explicit** `prototype` property.
-  (only available on functions:
-    ```js
-    Point.__proto__ === Function.prototype
-    Object.getOwnPropertyNames(Point /* or any function*/).includes('prototype') // true
-    ```
-  )
-- Implicit prototype link: `point1` - `point5` are created by the `new` operator, which **implicitly** links to `Point.prototype` (in some implementations it's `__proto__` property, but it should be internal property)
+- NOTE: calling `new Foo` is equivalent to calling `new Foo()`
+- [TypeError: "x" is not a constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_constructor): Some built-in **objects** are not a constructor: Math, JSON, Symbol, Reflect, Intl, SIMD, Atomics; Generator functions cannot be used as constructors.

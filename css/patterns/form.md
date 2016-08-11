@@ -2,3 +2,6 @@
 - minimal form http://tympanus.net/Development/MinimalForm/
 
 - react-reformed https://github.com/davezuko/react-reformed
+
+## Read more
+- [form standard](https://html.spec.whatwg.org/multipage/forms.html#forms)

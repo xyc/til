@@ -11,6 +11,7 @@
 ## Charts
 - react-vis https://github.com/uber/react-vis
 - react-chartjs https://github.com/jhudson8/react-chartjs
+- https://github.com/FormidableLabs/victory
 - http://echarts.baidu.com/
 - https://github.com/philackm/Scrollable-GraphView
 

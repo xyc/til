@@ -1,0 +1,4 @@
+# Dynamic scripts
+
+```js
+```
