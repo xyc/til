@@ -1,0 +1,1 @@
+- Wrap RESTful API in GraphQL http://graphql.org/blog/rest-api-graphql-wrapper/

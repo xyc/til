@@ -5,6 +5,7 @@ Find an example of a site that doesn't have a great responsive experience. What 
 
 ## Read more
 - The seminal article: [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+- Course: Udacity Responsive Web Design Fundamentals https://classroom.udacity.com/courses/ud893/lessons/3523969367/concepts/35511291480923#
 - Google web fundamentals responsive design https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=en
   - https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/set-the-viewport?hl=en
   - https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/size-content-to-the-viewport?hl=en
@@ -21,3 +22,4 @@ Find an example of a site that doesn't have a great responsive experience. What 
 - Team treehouse course http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
 
 - responsive design guideline http://tympanus.net/codrops/2013/01/21/ui-design-guidelines-for-responsive-design/
+- 9 basic principles of responsive web design http://blog.froont.com/9-basic-principles-of-responsive-web-design/

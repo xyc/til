@@ -96,6 +96,5 @@ If you are in a situation where you always **know what the succeeding element is
 <div>
 <div style="clear: both;"></div>
 
-
 ## Read more
 - [All about floats](https://css-tricks.com/all-about-floats/)

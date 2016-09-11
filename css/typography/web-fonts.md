@@ -1,3 +1,6 @@
+- Web fonts
+  - proxima nova http://www.marksimonson.com/fonts/view/proxima-nova
+
 ## Google fonts
 ```html
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>

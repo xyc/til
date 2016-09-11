@@ -18,14 +18,16 @@ function New (f) {
   assert(typeof f === 'function')
 
   /* 1: create instance (create empty object `cf`, set up the implicit link from `cf` to CF<sub>P</sub> ) */
-  var n = { '__proto__': f.prototype };
+  var newInstance = { '__proto__': f.prototype };
   return function () {
-    /* 2: init instance (invoke `CF`, with `this` set to `cf`. So `CF` can setup `cf`'s initial state. NOTE: this doesn't work on ES6 classes http://stackoverflow.com/a/30689872/626126) */
-    f.apply(n, arguments);
+    /* 2: init instance (invoke `CF`, with `this` set to `cf`. So `CF` can setup `cf`'s initial state.
+       NOTE: this doesn't work on ES6 classes http://stackoverflow.com/a/30689872/626126) */
+    const result = f.apply(newInstance, arguments);
+
     /* 3: return instance (return `cf`)
-      NOTE: if step 2 explicit returns, returns step 2's result (Normally constructors don't return a value)
+       NOTE: if step 2 explicit returns, returns step 2's result (Normally constructors don't return a value)
     */
-    return n;
+    return result ? result : newInstance;
   };
 }
 ```

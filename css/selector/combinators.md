@@ -4,7 +4,9 @@ Combinators can select elements with specific **former siblings** or children wi
 
 ## General sibling selectors
 The '~' combinator selects nodes that follow (not necessarily immediately) the former specified element, if both elements shared the same parent.
-Syntax: A ~ B
+
+Syntax: A ~ **B**
+
 Example: p ~ span will match all <span> elements that follow a <p> element inside the same element.
 
 ```css
@@ -13,7 +15,9 @@ Example: p ~ span will match all <span> elements that follow a <p> element insid
 
 ## Adjacent sibling selectors
 The '+' combinator selects nodes that immediately follow the former specified element.
-Syntax: A + B
+
+Syntax: A + **B**
+
 Example: ul + li will match any <li> that immediately follows a <ul>.
 
 ```css
@@ -22,7 +26,9 @@ Example: ul + li will match any <li> that immediately follows a <ul>.
 
 ## Child selectors
 The `>` combinator selects nodes that are direct children of the former specified element.
-Syntax: A > B
+
+Syntax: A > **B**
+
 Example: ul > li will match all <li> elements that are inside a <ul> element.
 
 ```css
@@ -31,11 +37,13 @@ Example: ul > li will match all <li> elements that are inside a <ul> element.
 
 ## Descendant selectors
 The ' ' combinator selects nodes that are children (not necessary direct children) of the former specified element.
-Syntax: A B
+
+Syntax: A **B**
+
 Example: div span will match any <span> element that is inside a <div> element.
 
 ```css
-.ancestor .descendent
+.ancestor .descendant
 
 /* <div class="class1 class2"></div> */
 .class1.class2 {

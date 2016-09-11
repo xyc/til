@@ -1,7 +1,7 @@
 ## Javascript
 - 2ality
 - kangax
-- Nicholas C. Zakas https://twitter.com/slicknet
+- Nicholas C. Zakas https://twitter.com/slicknet: eslint, Understanding ECMAScript 6, Maintainable JavaScript, Professional JavaScript for Web Developers
 
 ## React
 - jordwalke https://twitter.com/jordwalke #React
