@@ -1,6 +1,6 @@
-## Coerce string values into numbers
+## string => number
 ```js
-+str
++str // ['3','2','1'].sort((a,b) => +a - +b)
 Number(str)
 parseInt(str)
 ```
@@ -9,9 +9,13 @@ parseInt(str)
 ```js
 Math.trunc(num)
 ~~num
+Math.floor
+Math.round
+parseInt
 ```
+See also numbers
 
-## Coerce non-true (falsy) values into booleans
+## falsy => boolean
 ```js
 possibleUndefined === undefined ? false : possibleUndefined
 ```

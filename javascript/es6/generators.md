@@ -11,3 +11,5 @@ function* gen(){
 
 ## Read more
 - https://news.ycombinator.com/item?id=11710306
+- https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.1owp795i0
+- http://swannodette.github.io/2013/08/24/es6-generators-and-csp

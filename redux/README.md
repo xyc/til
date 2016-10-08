@@ -17,6 +17,7 @@ container component -> reducers -> actions
 
 ## Read More
 - dva: redux application framework https://github.com/sorrycc/dva
+- you might not need redux https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.mq6nzmu8q
 
 ## Real world redux apps
 - Dan's tweet summary https://twitter.com/dan_abramov/status/704403290252025858

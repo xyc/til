@@ -17,3 +17,4 @@
 
 ## General
 - https://github.com/parkjs814/AlgorithmVisualizer
+- Automatically interactive graphics for the web https://github.com/bijection/g9
