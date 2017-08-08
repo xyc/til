@@ -1,0 +1,2 @@
+- Next - framework for server-rendered React applications https://github.com/zeit/next.js
+- SSR from vue.js https://twitter.com/TheLarkInn/status/865658448536403968

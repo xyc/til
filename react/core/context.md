@@ -18,3 +18,12 @@ Btw, we do have atomic operations on both ends. componentDidMount/componentDidUp
 These do suffer from the same issue of not necessarily being consistent with each other. I.e. a parent isn't guaranteed to have all its child refs resolved in componentDidMount, but that's kind of an edge case that was already possible, since a parent can choose not to render a child. We have ref callbacks for that.
 
 One plausible solution would be to simply traverse the visible tree at a low priority for every actual context update. Might be fine if they're infrequent and likely to affect a lot of things anyway. Higher priority feedback loops like Redux -> visible change needs a different solution though.
+
+## References
+- How to safely use React Context https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.p3qluyip7
+  - Use cases
+    - theming
+    - localization
+    - routing
+  - immutable context (bypass SCU)
+> Context should be used as if it is received only once by each component.

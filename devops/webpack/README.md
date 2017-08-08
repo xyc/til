@@ -17,3 +17,4 @@
 - Webpack Advanced Techniques https://github.com/markerikson/react-redux-links/blob/master/webpack-advanced-techniques.md
   - Webpack & The Hot Module Replacement https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.4pjopk77m
 - [Webpack: The Confusing parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.j49fieig4)
+- Webpack from first principles https://www.youtube.com/watch?v=WQue1AN93YU&feature=youtu.be
