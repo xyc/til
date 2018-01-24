@@ -1,0 +1,2 @@
+- reactjs.org/docs/how-to-contribute.html
+- youtube.com/watch?v=GWCcZ6fnpn4&app=desktop

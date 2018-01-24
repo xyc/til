@@ -1,2 +1,3 @@
 - tryflow https://github.com/ptmt/tryflow
 - flow guide https://github.com/runtastic/flow-guide
+- even better support for React in flow https://medium.com/flow-type/even-better-support-for-react-in-flow-25b0a3485627

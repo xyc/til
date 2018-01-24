@@ -4,6 +4,7 @@
 https://facebook.github.io/react/docs/animation.html
 
 ## Cool links
+- Stripe: improve payment UX with animations https://medium.com/bridge-collection/improve-the-payment-experience-with-animations-3d1b0a9b810e
 - Codrops 2014 http://tympanus.net/codrops2014/
 - 3 Years of Codrops http://tympanus.net/Development/3YearsOfCodrops/
 - Animation demo http://joelburget.com/react-haskell/#simple-anim-demo
