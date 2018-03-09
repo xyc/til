@@ -1,0 +1,2 @@
+- https://24ways.org/2016/animation-in-design-systems/
+- The Importance of Context-Shifting in UX Patterns https://css-tricks.com/the-importance-of-context-shifting-in-ux-patterns/
