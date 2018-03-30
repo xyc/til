@@ -38,7 +38,8 @@ https://react.rocks/tag/CSSFramework
   - Airbnb design language http://airbnb.design/building-a-visual-language/
 - SFDC: lightning https://www.lightningdesignsystem.com/
 - IBM: carbon https://github.com/carbon-design-system
-- Lonely Planet: https://lonelyplanet.github.io/backpack-u
+- Pinterest: Gestalt https://github.com/pinterest/gestalt
+- Lonely Planet: https://lonelyplanet.github.io/backpack-ui
 - Uber: superfine
 - Github: primer http://primercss.io/
 - Khan Academy: http://khan.github.io/react-components/
