@@ -1,0 +1,4 @@
+- https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/
+- https://webassembly.studio/
+- http://webassembly.org/
+- https://developer.mozilla.org/en-US/docs/WebAssembly
