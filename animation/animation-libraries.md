@@ -1,2 +1,3 @@
 - popmotion https://popmotion.io/
 - pose https://popmotion.io/pose/
+- anime http://animejs.com/
