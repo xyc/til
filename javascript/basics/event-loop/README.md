@@ -1,1 +1,0 @@
-- [Jake Archibald: In The Loop - JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0): tasks, microtasks, requestAnimationFrame, requestIdleCallback, and where events land. 
