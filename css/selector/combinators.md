@@ -2,8 +2,8 @@
 
 Combinators can select elements with specific **former siblings** or children with specific **parent/ancestor** (the [reverse](http://stackoverflow.com/questions/4220327/css-selector-element-with-a-given-child) is not possible)
 
-## General sibling selectors
-The '~' combinator selects nodes that follow (not necessarily immediately) the former specified element, if both elements shared the same parent.
+## General sibling selectors: `~`
+The '~' combinator selects nodes that *follow* (not necessarily immediately) the former specified element, if both elements shared the same parent.
 
 Syntax: A ~ **B**
 
@@ -13,29 +13,29 @@ Example: p ~ span will match all <span> elements that follow a <p> element insid
 .eldersibling ~ .me
 ```
 
-## Adjacent sibling selectors
+## Adjacent sibling selectors: `+`
 The '+' combinator selects nodes that immediately follow the former specified element.
 
 Syntax: A + **B**
 
-Example: ul + li will match any <li> that immediately follows a <ul>.
+Example: ul + li will match any `<li>` that immediately follows a `<ul>`.
 
 ```css
 .prevsibling + .me
 ```
 
-## Child selectors
+## Child selectors: `>`
 The `>` combinator selects nodes that are direct children of the former specified element.
 
 Syntax: A > **B**
 
-Example: ul > li will match all <li> elements that are inside a <ul> element.
+Example: ul > li will match all `<li>` elements that are inside a `<ul>` element.
 
 ```css
 .parent > .immediate-children
 ```
 
-## Descendant selectors
+## Descendant selectors: ` `
 The ' ' combinator selects nodes that are children (not necessary direct children) of the former specified element.
 
 Syntax: A **B**

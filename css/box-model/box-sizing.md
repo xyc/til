@@ -3,11 +3,15 @@
 ## `box-sizing: content-box`
 The default. When computing the size of a box, padding and border are added.
 
+> width = content
+
 ## `box-sizing: border-box`
 When computing the size of a box, padding and border are folded in.
 
+> width = border + padding + content
+
 ```css
-.html {
+html {
   box-sizing: border-box;
 }
 

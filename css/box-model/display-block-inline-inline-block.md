@@ -6,11 +6,11 @@
         - If `left` or `right'`are given as `auto`, their computed value is 0.
         - If `width` is set to `auto`, any other `auto` values become '0' and `width` follows from the resulting equality.
         - If both `margin-left` and `margin-right` are `auto`, their computed values are equal.
-  - height: sized by content (can be set)
+  - height: sized by **content** (can be set)
 - `inline` (inline-level element)
-  - width: sized by content (can NOT be set by `width`)
-  - height: sized by content (can NOT be set by `height`, determined by [`line-height`](https://www.w3.org/TR/REC-CSS2/visudet.html#q15))
-  - margin-top, margin-bottom: can NOT be set
+  - width: sized by content (**can NOT be set by `width`**)
+  - height: sized by content (**can NOT be set by `height`, determined by [`line-height`](https://www.w3.org/TR/REC-CSS2/visudet.html#q15)**)
+  - margin-top, margin-bottom: **can NOT be set**
   - margin-left, margin-right: can be set
 - `inline-block` (inline-level element) - inline (how I am gonna be dealt with by parent), block (how I handle my content **notice the width behaves like inline but can be set**) (also, generates [atomic inline-level boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Visual_formatting_model) - contents don't participate in inline formatting context)
   - width: sized by content (can be set)

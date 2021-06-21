@@ -1,1 +1,2 @@
-https://github.com/delapuente/service-workers-101
+- https://developers.google.com/web/fundamentals/primers/service-workers
+- https://github.com/delapuente/service-workers-101

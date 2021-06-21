@@ -1,0 +1,1 @@
+- [Web Storage section in HTML Living Standards](https://html.spec.whatwg.org/multipage/webstorage.html#webstorage)

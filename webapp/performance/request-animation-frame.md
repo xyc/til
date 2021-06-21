@@ -17,3 +17,5 @@ function loop(time) {
 }
 requestAnimationFrame(loop);
 ```
+
+- [requestAnimationFrame Scheduling For Nerds](https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4)

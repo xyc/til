@@ -35,3 +35,4 @@ plugins: [
 - [MDN fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [That's so fetch!](https://jakearchibald.com/2015/thats-so-fetch/)
 - [Compose HTTP clients using JavaScript's fetch API](https://github.com/mjackson/http-client)
+- [PWA working with the fetch API](https://developers.google.com/web/ilt/pwa/working-with-the-fetch-api)

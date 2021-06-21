@@ -4,11 +4,15 @@
 ## Calculating a selector's specificity (inline style, id, class|pseudo-class|attribute, element|pseudo-element)
 A selector's specificity is calculated as follows:
 - count the number of **ID** selectors in the selector (`= a`)
+  - example: `#example`
 - count the number of **class** selectors, **attributes selectors**, and **pseudo-classes** in the selector (`= b`)
+  - example: `.example`, `[type="radio"]`, `:hover`
 - count the number of **type** selectors and **pseudo-elements** in the selector (`= c`)
-- **ignore** the universal selector (`= 0`)
+  - example: `h1`, `::before`
+- **ignore** the universal selector (`= 0`), combinators, and `:not`
+  - example: `*`, `+`, `>`, `~`, ` `, `||`, `:not`
 
-Selectors inside the negation pseudo-class(`:not()`) are counted like any other, but the negation itself does not count as a pseudo-class.
+> *Selectors inside the negation pseudo-class(`:not()`) are counted like any other, but the negation itself (`:not()`) does not count as a pseudo-class.*
 
 ```css
 *               /* a=0 b=0 c=0 -> specificity =   0 */
@@ -24,7 +28,7 @@ LI.red.level    /* a=0 b=2 c=1 -> specificity =  21 */
 
 ## Read more
 - [CSS 3 selectors](https://www.w3.org/TR/css3-selectors/)
-- [specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+- [MDN specificity page](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 - [Specifics on CSS specificity](https://css-tricks.com/specifics-on-css-specificity/)
 - specificity:  Assigning property values, Cascading, and Inheritance https://www.w3.org/TR/CSS2/cascade.html
   - no ID http://csswizardry.com/2011/09/when-using-ids-can-be-a-pain-in-the-class/

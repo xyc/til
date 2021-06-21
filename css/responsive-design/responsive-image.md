@@ -1,3 +1,10 @@
+# Responsive Images
+[MDN Page](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+
+## `srcset` attribute
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-srcset
+
+## Flexible Images Media
 The main concept here: you want to make sure that images can resize appropriately based on your grid. The simplest way to do this is to use CSS to set a max-width on images to 100%.
 
 ```css

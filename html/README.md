@@ -1,1 +1,15 @@
 - [HTML living standard](https://html.spec.whatwg.org/multipage/)
+    - Common infrastructure
+    - Semantics, structure and APIs
+    - Elements
+    - Microdata
+    - User Interaction
+    - Loading Web Pages
+    - Web application APIs: Scripting, WindowOrWorkerGlobalScope mixin, Base64 utility methods, Dynamic markup insertion, DOM parsing, Timers, Microtask queuing, User prompts, System state and capabilities (navigator object), Images, Animation Frames
+    - Communication: Server sent events, Web sockets, Cross-document messaging, Channel messaging, broadcast channels
+    - Web Workers
+    - Worklets
+    - Web storage
+    - HTML syntax
+    - XML syntax
+    - Rendering

@@ -12,8 +12,19 @@ A block formatting context is created by one of the following:
 - table captions (elements with display: table-caption, which is the default for HTML table captions)
 - elements where `overflow` has a value **other than** `visible`
 - flex boxes (elements with display: flex or inline-flex)
+- `display: flow-root`
 
 Block formatting contexts are important for the positioning (see float) and clearing (see clear) of floats. The rules for positioning and clearing of floats apply only to things within the same block formatting context.
+
+An element that establishes a new block formatting context will:
+- contain internal floats.
+- exclude external floats.
+- suppress margin collapsing.
+
+## Margin Collapsing
+[MDN Page](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
+
+See also [Block and Inline layout in normal flow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/Block_and_Inline_Layout_in_Normal_Flow#margin_collapsing)
 
 ## Float and Clear
 Q: Explain clearfix
@@ -98,3 +109,6 @@ If you are in a situation where you always **know what the succeeding element is
 
 ## Read more
 - [All about floats](https://css-tricks.com/all-about-floats/)
+- [Block formatting context](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Block_formatting_context)
+- [Block and inline layout in normal flow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/Block_and_Inline_Layout_in_Normal_Flow)
+- [CSS Flow Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout)
